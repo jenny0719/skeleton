@@ -15,6 +15,7 @@ SUBDIRS = fanctl \
 	  pyflashbmc \
 	  pyinventorymgr \
 	  pyipmitest \
+	  pysensormgr \
 	  pystatemgr \
 	  pysystemmgr \
 	  pytools
